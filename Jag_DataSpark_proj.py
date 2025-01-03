@@ -329,3 +329,6 @@ pd.set_option('display.max_columns', None)
 df_finalMerged.head(1)
 
 df_finalMerged.to_sql(name= "finalmerged", con=engine, if_exists='replace', index=False)
+
+
+
