@@ -8,13 +8,15 @@ The objective is to provide insights from dataset of Global Electronics, a leadi
 ### Approach
   1.	Cleansing the datasets of the company received by suitably handling the null values, missing values, data type conversions, duplicate values and so on.
   
-  2.	Storing the cleaned data in SQL database
+  2.	Storing the cleaned data in MySql database
+     
+  3.	Merging the datasets into a comprehensive dataset & storing that also in MySql datqabase
   
-  3.	Perform Exploratory Data Analysis (EDA) to uncover trends, patterns, and insights.
+  4.	Perform Exploratory Data Analysis (EDA) to uncover trends, patterns, and insights.
   
-  4.	Represent the insights visually using Power BI tool   and
+  5.	Represent the insights visually using Power BI tool   and
   
-  5.	Provide results through SQL queries 
+  6.	Provide results through SQL queries 
 
 
 #### Exploratory data analysis
@@ -57,20 +59,19 @@ go through and run the project, follow these steps:
 2.	Install MySQL and have its login credentials for storing the data.
 3.	Install Power BI desktop  or link to online version following instructions in Mircrosft site for Power BI.
 4.	Download the Python Application Script Jag_DataSpark_proj.py from Git hub.
-5.	Launch the Application through Streamlit in the command-line interface.  
-     **Streamlit run \<path>\Jag_DAtaSpark_proj.py**
+5.	Launch the Application through Jupyter lab's Terminal (Windows Powershell) typing.  
+     **Python Jag_DAtaSpark_proj.py**
 
 ### Features
 
 The application offers the following features:
-+	Cleansing the given dataset/s.
-+	Storage of clean data to a MySQL database for Power BI visualization and analysis.
-+	Analysis details from SQL database using SQL queries for a ten different pre-defined search options.
++	Cleansing & storing (in MySql) the given dataset/s.
++	Merging Datasets as FinalMerged and storing it in MySql for Power BI visualization and query analysis.
 +	Data analysis and visualization through charts and graphs using Power BI.
++	Analysis of details from SQL database using SQL queries for a ten different pre-defined search options.
 
 ### References
 
-> Streamlit Documentation: [https://docs.streamlit.io/](https://docs.streamlit.io/)
 > Python Documentation: [https://docs.python.org/](https://docs.python.org/)
 
 #### My Contact
