@@ -10,7 +10,7 @@ The objective is to provide insights from dataset of Global Electronics, a leadi
   
   2.	Storing the cleaned data in MySql database
      
-  3.	Merging the datasets into a comprehensive dataset & storing that also in MySql datqabase
+  3.	Merging the datasets into a comprehensive dataset & storing that also in MySql database
   
   4.	Perform Exploratory Data Analysis (EDA) to uncover trends, patterns, and insights.
   
@@ -60,7 +60,7 @@ go through and run the project, follow these steps:
 3.	Install Power BI desktop  or link to online version following instructions in Mircrosft site for Power BI.
 4.	Download the Python Application Script Jag_DataSpark_proj.py from Git hub.
 5.	Launch the Application through Jupyter lab's Terminal (Windows Powershell) typing.  
-     **Python Jag_DAtaSpark_proj.py**
+     **Python Jag_DataSpark_proj.py**
 
 ### Features
 
@@ -73,6 +73,7 @@ The application offers the following features:
 ### References
 
 > Python Documentation: [https://docs.python.org/](https://docs.python.org/)
+> Streamlit Documentation: https://docs.streamlit.io/
 
 #### My Contact
 📧 Email: jagdeeshv@hotmail.com  
