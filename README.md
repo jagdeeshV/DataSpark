@@ -35,7 +35,7 @@ All details and installation information are provided in the Prerquisite.PDF fil
 
     **Install necessary Python packages / Libraries:** Install the necessary packages / libraries using pip or conda package manager. Required libraries include DateTime, Regex, Streamlit, Pandas, mysql-connector-python and google-api-python-client
 
-2.	**Streamlit:** Streamlit is an open-source Python framework designed to create and share web applications. It is specifically built for Python, making it easy for data scientists and machine learning engineers to deploy their models and visualize data without needing extensive knowledge of web development
+2.	**Streamlit:** Streamlit is an open-source Python framework designed to create and share web applications. It is specifically built for Python, making it easy for data scientists and machine learning engineers to deploy their models and visualize data without needing extensive knowledge of web development.  This is used for SQL Queries and results in this project
 	
         A web-based user interface is developed using Streamlit for Data cleansing.
 
