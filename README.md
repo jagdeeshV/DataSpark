@@ -35,9 +35,9 @@ All details and installation information are provided in the Prerquisite.PDF fil
 
     **Install necessary Python packages / Libraries:** Install the necessary packages / libraries using pip or conda package manager. Required libraries include DateTime, Regex, Streamlit, Pandas, mysql-connector-python and google-api-python-client
 
-2.	**Streamlit:** Streamlit is an open-source Python framework designed to create and share web applications. It is specifically built for Python, making it easy for data scientists and machine learning engineers to deploy their models and visualize data without needing extensive knowledge of web development.  This is used for SQL Queries and results in this project
+2.	**Streamlit:** Streamlit is an open-source Python framework designed to create and share web applications. It is specifically built for Python, making it easy for data scientists and machine learning engineers to deploy their models and visualize data without needing extensive knowledge of web development.
 	
-        A web-based user interface is developed using Streamlit for Data cleansing.
+        A web-based user interface is developed using Streamlit for Sql queries & result display.
 
 3.	**Power BI:** It is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence1. Power BI is part of the Microsoft Power Platform.
 	  	
